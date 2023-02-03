@@ -1,5 +1,10 @@
 # Neverland
-Egor, sets off to Neverland to uncover their family history and the truth about their roots. Solve puzzles, explore, and uncover secrets as you piece together the mystery of your family's past in this immersive adventure.
+
+###### H6  сюжет
+
+🇺🇸 Egor, sets off to Neverland to uncover their family history and the truth about their roots. Solve puzzles, explore, and uncover secrets as you piece together the mystery of your family's past in this immersive adventure.
+
+🇷🇺 Egor, sets off to Neverland to uncover their family history and the truth about their roots. Solve puzzles, explore, and uncover secrets as you piece together the mystery of your family's past in this immersive adventure.
 
 
 # Игра сделана рамках [Global Game Jam 2023](https://globalgamejam.org "Global Game Jam | 30 January - 5 February 2023")
